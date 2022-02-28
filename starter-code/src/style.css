@@ -1,0 +1,113 @@
+body{
+    background-image: url("img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: wheat;
+    color:white;
+    width: 90vw;
+    height: 50vw;
+    font-family: 'Courier prime';
+    font-size: 13px;
+}
+#container {
+    background:wheat;
+    display: flex;
+   justify-content: center;
+   align-items: top;
+   width: 80%;
+   height: 60%;
+   padding: 8px;
+   font-family: 'Courier prime';
+}
+form{
+    background: #fa5959;
+    justify-content: center center;
+    align-items: top;
+    width: 400%;
+    height: 80%;
+    font-family: 'Courier prime';
+    padding: 20px;
+    border-radius: 30px;
+    margin-left: 300px;
+}
+
+.form-group{
+    margin-left: 250px;
+    width: 300px;
+    height: 25px;
+    margin-bottom: -300px;
+}
+.form-group2{
+    width: 300px;
+    height: 25px;
+    margin-left: 250px;
+}
+.form-group3{
+    width: 300px;
+    height: 25px;
+    margin-left: 250px;
+}
+.holder{
+    margin-left: 150px;
+    width: 300px;
+    height: 10px;
+    padding: 10px;
+}
+input{
+    margin-bottom: -7px;
+    padding-right: 5px;
+    padding-top: 2px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.sharp{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.privacy{
+    font-family: 'Courier Prime';
+
+}
+button{
+    margin-top: 10px;
+    height: 30px;
+    width: 150px;
+    background: #fa5959;
+    border-radius: 3px;
+
+}
+::-webkit-input-placeholder {
+    color:white;
+    font-size: 16px; 
+    padding: 500px;
+}
+span{ 
+    color:rgb(255, 0, 0);
+}
+u{
+    color: blue;
+}
+[type= 'email']{
+    border: 5px solid red;
+}
+button{
+    margin: auto;
+    background-color: #fa5959;
+    color:white;
+    border-radius: 7px;
+    border-color: white;
+    padding-top: 8px;
+    padding-left: 10px;
+}
+p{
+    margin-left: 150px;
+}
+input[type=checkbox] {
+    vertical-align: top;
+    bottom: 1px;
+  }
