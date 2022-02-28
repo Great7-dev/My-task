@@ -1,5 +1,5 @@
 body{
-    background-image: url("img.png");
+    background-image: url("./starter-code/src/img.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: wheat;
@@ -32,20 +32,22 @@ form{
 }
 
 .form-group{
-    margin-left: 250px;
+    margin-left: 150px;
     width: 300px;
     height: 25px;
-    margin-bottom: -300px;
+    margin-bottom: 10px;
 }
 .form-group2{
     width: 300px;
     height: 25px;
-    margin-left: 250px;
+    margin-left: 140px;
+    margin-bottom: 10px;
 }
 .form-group3{
     width: 300px;
     height: 25px;
-    margin-left: 250px;
+    margin-left: 105px;
+    margin-bottom: 5px;
 }
 .holder{
     margin-left: 150px;
