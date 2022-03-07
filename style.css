@@ -63,30 +63,26 @@ input{
     margin-right: 10px;
 }
 
-.sharp{
-    width: 100%;
+.btnn{
+    width: 20%;
     display: flex;
     justify-content: center;
-    padding: 20px;
-    padding-right: 50px;
-    padding-top: 50px;
+    padding-bottom: 15px;
+    padding-right: 5px;
+    padding-top: 15px;
+    margin-top: 20px;
 }
 .privacy{
     font-family: 'Courier Prime';
 
 }
-button{
+ .button{
     margin-top: 10px;
     height: 30px;
     width: 150px;
     background: #fa5959;
     border-radius: 3px;
 
-}
-::-webkit-input-placeholder {
-    color:white;
-    font-size: 16px; 
-    padding: 500px;
 }
 span{ 
     color:rgb(255, 0, 0);
@@ -113,3 +109,13 @@ input[type=checkbox] {
     vertical-align: top;
     bottom: 1px;
   }
+  .screen2{
+    margin-left: 180px;
+   background-color: white;
+   height: 35px;
+   width:320px;
+   color: red;
+   text-align: center;
+   font-family: 'Courier Prime', monospace;
+   font-size: 17px;
+   }
